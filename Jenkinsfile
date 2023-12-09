@@ -15,7 +15,7 @@ pipeline {
             steps {
                 script {
                     // Docker 이미지 빌드
-                    docker.build("jiwonlee42/spring-boot:1.0", "--file Dockerfile .")
+                    docker.build("jiwonlee42/spring-boot:1.0", ".")
                 }
             }
         }
