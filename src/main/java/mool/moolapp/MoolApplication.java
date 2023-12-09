@@ -16,8 +16,7 @@ public class MoolApplication {
 
 @RestController
 class HelloController {
-
-	@GetMapping("/hello")
+	@GetMapping("/helloo")
 	public String hello() {
 		return "hello";
 	}
