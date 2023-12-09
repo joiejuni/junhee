@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="mool.moolapp.MoolApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-09T04:37:34" hostname="ijiwon-ui-noteubug.local" time="0.449">
+<testsuite name="mool.moolapp.MoolApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-09T08:19:38" hostname="ijiwon-ui-noteubug.local" time="0.452">
   <properties/>
-  <testcase name="contextLoads()" classname="mool.moolapp.MoolApplicationTests" time="0.449"/>
-  <system-out><![CDATA[13:37:33.921 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [mool.moolapp.MoolApplicationTests]: MoolApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-13:37:33.977 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration mool.moolapp.MoolApplication for test class mool.moolapp.MoolApplicationTests
+  <testcase name="contextLoads()" classname="mool.moolapp.MoolApplicationTests" time="0.452"/>
+  <system-out><![CDATA[17:19:37.482 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [mool.moolapp.MoolApplicationTests]: MoolApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+17:19:37.539 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration mool.moolapp.MoolApplication for test class mool.moolapp.MoolApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -13,9 +13,9 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.2.0)
 
-2023-12-09T13:37:34.157+09:00  INFO 1873 --- [    Test worker] mool.moolapp.MoolApplicationTests        : Starting MoolApplicationTests using Java 17.0.8 with PID 1873 (started by ijiwon in /Users/ijiwon/Documents/opensourcesw/moolapp)
-2023-12-09T13:37:34.158+09:00  INFO 1873 --- [    Test worker] mool.moolapp.MoolApplicationTests        : No active profile set, falling back to 1 default profile: "default"
-2023-12-09T13:37:34.686+09:00  INFO 1873 --- [    Test worker] mool.moolapp.MoolApplicationTests        : Started MoolApplicationTests in 0.643 seconds (process running for 1.191)
+2023-12-09T17:19:37.728+09:00  INFO 25960 --- [    Test worker] mool.moolapp.MoolApplicationTests        : Starting MoolApplicationTests using Java 17.0.8 with PID 25960 (started by ijiwon in /Users/ijiwon/Documents/opensourcesw/moolapp)
+2023-12-09T17:19:37.728+09:00  INFO 25960 --- [    Test worker] mool.moolapp.MoolApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2023-12-09T17:19:38.285+09:00  INFO 25960 --- [    Test worker] mool.moolapp.MoolApplicationTests        : Started MoolApplicationTests in 0.674 seconds (process running for 1.235)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
